@@ -23,7 +23,7 @@ Comece gerando o arquivo que vai conter arrays de diferentes tamanhos. No diret�
 
 > python gera-arrays.py > ../data/input-arrays.data
 
-Veja que o arquivo `../data/input-arrays.data` contém arrays de diversos tamanhos que vamos usar para ver o desempenho dos nossos algoritmos buscando elementos neles.
+Veja no diretório `data` que o arquivo `input-arrays.data` contém arrays de diversos tamanhos que vamos usar para ver o desempenho dos nossos algoritmos buscando elementos neles.
 
 Agora execute a classe `Main` passando como entrada esses Arrays. No diretório `src/main/java`, execute:
 
@@ -33,11 +33,11 @@ Agora, **implemente a versão recursiva da busca binária**. Modifique o código
 
 > java Main < ../../../data/input-arrays.data > ../../../data/execution.data
 
-Confira se o arquivo `../../../data/execution.data` foi gerado corretamente.
+Confira se o arquivo `execution.data` dentro do diretório `data` foi gerado corretamente.
 
 ### Análise
 
-Plote o gráfico e analise os dados. No diretório scripts, execute o comando: `R < plot.R --vanilla ../data/execution.data`
+Plote o gráfico e analise os dados. No diretório `scripts`, execute o comando: `R < plot.R --vanilla ../data/execution.data`
 
 Abra o arquivo `Rplots.pdf` que foi gerado.
 
