@@ -34,6 +34,8 @@ Agora, **implemente a versão recursiva da busca binária**. Modifique o código
 
 Confira se o arquivo `execution.data` dentro do diretório `data` foi gerado corretamente.
 
+Ah...confira (sempre!) se você passa nos testes: `mvn test`.
+
 ### Análise
 
 Não vamos plotar nenhum gráfico dessa vez. Analise os dados presentes no arquivo `execution.data`.
