@@ -18,6 +18,10 @@
 
 > Não mude nenhuma assinatura de método, nome de classe ou localização dos arquivos. Mas você pode/deve criar outros métodos e classes, desde que passem nos testes.
 
+> Compilando: `mvn compile` na raiz do projeto.
+
+> Executando os testes: `mvn test` na raiz do projeto.
+
 
 ## Introdução
 
@@ -91,14 +95,6 @@ Implemente as seguintes questões (com recursividade) no tst-eda:
 * Fibonacci
 * Encontra primeiro negativo
 * Encontra quebra recursivo
-
-## Trabalhando com o código
-
-Executar os comandos abaixo no diretório raiz do seu projeto (onde está o arquivo pom.xml).
-
-> Compilando: `mvn compile`
-
-> Executando os testes: `mvn test`
 
 ## Entregando o lab
 
