@@ -16,7 +16,7 @@
 
 > Seu código é tão bom quanto seus testes. Eu vou executar meus testes quando você submeter.
 
-> Não mude nenhuma assinatura de método, nome de classe ou localização dos arquivos. 
+> Não mude nenhuma assinatura de método, nome de classe ou localização dos arquivos. Mas você pode/deve criar outros métodos e classes, desde que passem nos testes.
 
 
 ## Introdução
