@@ -10,6 +10,8 @@
 
 > O código java estará (ou você terá que colocar) no diretório **/src/main/java/**
 
+> javac AssertsComparacaoBusca.java ; java -ea AssertsComparacaoBusca
+
 > Escreva testes para os seus programas! Siga o nosso padrão de ter uma classe chamada AssertsXXX.
 
 > Não mude nenhuma assinatura de método, nome de classe ou localização dos arquivos. Mas você pode/deve criar outros métodos e classes, desde que passem nos testes.
